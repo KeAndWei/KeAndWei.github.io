@@ -5,9 +5,9 @@ header-img: img/bg.png
 email: wl790435548@163.com
 description: "Every failure is leading towards success."
 keyword: "会飞的宵宫的博客, XIAO GONG, XG, Java"
-url: "https://flyxiaogong.github.io/"          # your host, for absolute URL
+url: "https://xiaogong.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/flyxiaogong/flyxiaogong.github.io.git" # you code repository
+github_repo: "https://github.com/xiaogong/xiaogong.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/xiaogong.png      # use absolute URL, seeing it's used in b
 RSS: false
 #weibo_username:     wzb1994
 #zhihu_username:     zongguanxian
-github_username:    flyingxiaogong
+github_username:    xiaogong
 # facebook_username:  username
 # jianshu_username:   jianshu_id
 #twitter_username:   wzbcode
