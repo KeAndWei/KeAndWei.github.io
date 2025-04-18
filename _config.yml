@@ -4,7 +4,7 @@ SEOTitle: 会飞的宵宫的博客
 header-img: img/xgbg.png
 email: wl790435548@163.com
 description: "Every failure is leading towards success."
-keyword: "XG的博客, XIAO GONG, XG, Java"
+keyword: "会飞的宵宫的博客, XIAO GONG, XG, Java"
 url: "https://flyxiaogong.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/flyxiaogong/flyxiaogong.github.io.git" # you code repository
@@ -62,9 +62,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: ae47d898c3d118b467be                            #生成的clientID
   clientSecret: c30e8df95d413ec73785dea5b4237424165f77c7    #生成的clientSecret
-  repo: flyingwzb.github.io    #仓库名称
-  owner: flyingwzb    #github用户名
-  admin: flyingwzb
+  repo: flyxiaogong.github.io    #仓库名称
+  owner: flyxiaogong    #github用户名
+  admin: flyxiaogong
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
